@@ -1,5 +1,6 @@
 ## Minghao Guo
 ## usage python extract_lenth.py -i your_fasta_file.fasta
+## get the chromosomes length in a fasta file
 
 import argparse
 from Bio import SeqIO
