@@ -1,3 +1,8 @@
+## Minghao Guo
+## Usage: python vcf_stats.py path_to_your_vcf_file.vcf chromosome_counts.txt 
+## counts the variant numbers for each chromsomes
+
+
 import argparse
 
 def count_chromosomes(vcf_file):
